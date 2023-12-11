@@ -2,7 +2,7 @@
 
 Hello! I'm Võ Duy Huỳnh, a passionate young programmer from Vietnam. I love exploring the vast and ever-evolving world of technology. Besides coding, here are a few things I enjoy:
 
-- 🏀 Sports: I'm an avid sports enthusiast, especially basketball.
+- 🏀 Sports: I'm an avid sports enthusiast, especially soccer and volleyball.
 - 🎵 Music: I have a diverse taste in music, ranging from classic rock to electronic.
 - 🎬 Movies: I enjoy watching movies from various genres, and I'm always up for a good film.
 - 📚 Reading: I love delving into interesting books, both fiction and non-fiction.
